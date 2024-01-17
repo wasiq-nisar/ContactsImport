@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'ImportContacts' in project 'ImportContacts' (no dependencies)
+Target 'ImportContacts' in project 'ImportContacts' (no dependencies)

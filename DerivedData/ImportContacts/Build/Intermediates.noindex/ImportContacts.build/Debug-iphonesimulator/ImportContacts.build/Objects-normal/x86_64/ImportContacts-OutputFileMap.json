@@ -1,0 +1,58 @@
+{
+  "" : {
+    "diagnostics" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/ImportContacts-master.dia",
+    "emit-module-dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/ImportContacts-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/ImportContacts-master-emit-module.dia",
+    "swift-dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/ImportContacts-master.swiftdeps"
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/ImportContacts/AppDelegate.swift" : {
+    "const-values" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/AppDelegate.d",
+    "diagnostics" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/AppDelegate.dia",
+    "index-unit-output-path" : "/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/AppDelegate.o",
+    "llvm-bc" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/AppDelegate.bc",
+    "object" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/AppDelegate.o",
+    "swift-dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/ImportContacts/PhoneContacts.swift" : {
+    "const-values" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/PhoneContacts.swiftconstvalues",
+    "dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/PhoneContacts.d",
+    "diagnostics" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/PhoneContacts.dia",
+    "index-unit-output-path" : "/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/PhoneContacts.o",
+    "llvm-bc" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/PhoneContacts.bc",
+    "object" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/PhoneContacts.o",
+    "swift-dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/PhoneContacts.swiftdeps",
+    "swiftmodule" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/PhoneContacts~partial.swiftmodule"
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/ImportContacts/SceneDelegate.swift" : {
+    "const-values" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/SceneDelegate.d",
+    "diagnostics" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/SceneDelegate.dia",
+    "index-unit-output-path" : "/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/SceneDelegate.o",
+    "llvm-bc" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/SceneDelegate.bc",
+    "object" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/ImportContacts/ViewController.swift" : {
+    "const-values" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/ViewController.swiftconstvalues",
+    "dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/ViewController.d",
+    "diagnostics" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/ViewController.dia",
+    "index-unit-output-path" : "/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/ViewController.o",
+    "llvm-bc" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/ViewController.bc",
+    "object" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/ViewController.o",
+    "swift-dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/ViewController.swiftdeps",
+    "swiftmodule" : "/Users/muhammadwasiq/Desktop/Wasiq/ImportContacts/DerivedData/ImportContacts/Build/Intermediates.noindex/ImportContacts.build/Debug-iphonesimulator/ImportContacts.build/Objects-normal/x86_64/ViewController~partial.swiftmodule"
+  }
+}
